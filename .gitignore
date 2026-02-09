@@ -1,0 +1,49 @@
+﻿# Carpetas de almacenamiento generadas por Laravel
+/storage/*
+*.zip
+backup_*.zip
+/public/backup_22_Agosto_prod_sc.zip
+colpensiones.zip
+
+# Carpeta de caché generada por Laravel
+/bootstrap/cache/*
+
+# Archivos de registro generados por Laravel
+/storage/logs/*
+/storage/debugbar/*
+
+# Archivos de configuración generados localmente
+.env
+.env.backup
+.env.example
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+
+# Dependencias del administrador de paquetes
+/vendor/
+
+# Dependencias de Node.js
+/node_modules/
+npm-debug.log
+
+# Build files
+/public/build/
+/public/mix-manifest.json
+
+# Otros archivos y directorios generados automáticamente
+/public/storage
+/public/images/firmas
+/public/hot
+/database/migrationsBackup
+/storage/*.key
+/.idea
+/.vscode
+/.vagrant
+/_ide_helper.php
+/_ide_helper_models.php
+artisan
+.DS_Store
+public/*.csv
+public/*.txt
+*- Copy*.*
