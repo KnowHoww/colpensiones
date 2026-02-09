@@ -21,7 +21,7 @@ Homestead.json
 Homestead.yaml
 
 # Dependencias del administrador de paquetes
-/vendor/
+#/vendor/
 
 # Dependencias de Node.js
 /node_modules/
@@ -42,7 +42,6 @@ npm-debug.log
 /.vagrant
 /_ide_helper.php
 /_ide_helper_models.php
-artisan
 .DS_Store
 public/*.csv
 public/*.txt
